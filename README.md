@@ -1,4 +1,3 @@
-# AI-Powered-Customer-Churn-Prediction-System
 # AI-Powered Customer Churn Prediction System 🔥
 
 ## Overview
